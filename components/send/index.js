@@ -1,0 +1,1 @@
+export { default as SendComponent } from "./send.js";
