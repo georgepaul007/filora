@@ -1,15 +1,9 @@
-# Filora A web-based file sharing app <img src=https://github.com/RishiPratap/file-sharing-app/blob/main/public/android-chrome-192x192.png width=130 align='right'>
-![](https://img.shields.io/github/forks/MLSA-SRM/file-sharing-app?color=green&style=for-the-badge)
-![](https://img.shields.io/github/stars/MLSA-SRM/file-sharing-app?color=blueviolet&style=for-the-badge)
-![](https://img.shields.io/github/license/MLSA-SRM/file-sharing-app?color=blue&style=for-the-badge)
-![](https://img.shields.io/badge/version-1.0-pink.svg?style=for-the-badge)
-
 `Filora is a web-based file sharing app created under MLSA-SRM.` 
 ## 🟠Built With:
 | Software/ Language | Version |
 |----------|---------|
 | JavaScript | ES6 |
-| PEER.JS | 1.3.2 |
+| SIMPLEPEER.JS | 9.11.1 |
 | Google Chrome Browser | 87.0.4280.141 |
 | Visual Studio Code | 1.52 |
 ## 🔴Support:
@@ -20,7 +14,7 @@
 | Mozilla Firefox Browser | 84.0.2 |
 
 ## 🔶🔶Introduction:
-Filora is web-based file sharing app. It is built over `PEER.JS`.This app is also available as `PWA`.
+Filora is web-based file sharing app. It is built over `SIMPLEPEER.JS`.This app is also available as `PWA`.
 
 ![](https://github.com/RishiPratap/file-sharing-app/blob/main/public/capture%20(1).jpeg)
 
