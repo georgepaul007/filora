@@ -36,7 +36,7 @@ Filora is web-based file sharing app. It is built over `SIMPLEPEER.JS`.This app 
 
 * Clone this repository to your local machine.
 ```
-git clone https://github.com/MLSA-SRM/file-sharing-app.git
+git clone https://github.com/georgepaul007/filora.git
 ```
 ## 📢Run project on local server
 
